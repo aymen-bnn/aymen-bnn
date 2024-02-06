@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYMEN Benouna</h1>
 <h3 align="center">FULL-STACK WEB/MOBILE DEVELOPER</h3>
 
-- 🌱 I’m currently learning **FLUTTER**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [https://aymenbnn.vercel.app/](https://aymenbenouna.vercel.app/)
 
